@@ -9,7 +9,7 @@ import com.imranshafqat.coderbyteproject.model.User;
 import com.imranshafqat.coderbyteproject.service.ApiService;
 
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/api/v1/users")
 public class UserController {
     
     @Autowired

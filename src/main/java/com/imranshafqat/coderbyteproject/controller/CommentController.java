@@ -10,7 +10,7 @@ import com.imranshafqat.coderbyteproject.model.Comment;
 import com.imranshafqat.coderbyteproject.service.ApiService;
 
 @RestController
-@RequestMapping("/comments")
+@RequestMapping("/api/v1/comments")
 public class CommentController {
     
     @Autowired

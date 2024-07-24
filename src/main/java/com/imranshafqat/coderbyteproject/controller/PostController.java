@@ -10,7 +10,7 @@ import com.imranshafqat.coderbyteproject.model.Post;
 import com.imranshafqat.coderbyteproject.service.ApiService;
 
 @RestController
-@RequestMapping("/posts")
+@RequestMapping("/api/v1/posts")
 public class PostController {
     
     @Autowired
