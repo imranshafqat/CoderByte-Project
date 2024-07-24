@@ -42,3 +42,10 @@ HTTP GET: http://localhost:8080/api/v1/posts?user_id={pass_user_id}
 HTTP GET: http://localhost:8080/api/v1/comments?post_id={pass_post_id}
 
 
+
+## Author
+Imran Shafqat
+
+[Imran's LinkedIn Profile](https://www.linkedin.com/in/imranshafqat1/)
+
+[Imran's Website](https://www.imranshafqat.com/)
